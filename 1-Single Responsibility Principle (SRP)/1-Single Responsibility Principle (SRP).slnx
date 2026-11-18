@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Ex1 Notification Service SRP/Ex1 Notification Service SRP.csproj" Id="ae782d37-a34f-48a0-b126-767dd1d57549" />
   <Project Path="Ex1 Notification Service/Ex1 Notification Service.csproj" />
+  <Project Path="Ex2 Logging Service SRP/Ex2 Logging Service SRP.csproj" Id="ee1d7859-c057-4726-9859-3aa75ef6e287" />
+  <Project Path="Ex2 Logging Service/Ex2 Logging Service.csproj" Id="ce055f38-0902-4ff3-bff7-218123f48fd0" />
 </Solution>
