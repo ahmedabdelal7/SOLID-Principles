@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Ex1 Printer ISP Violationg/Ex1 Printer ISP Violationg.csproj" />
   <Project Path="Ex1 Printer ISP/Ex1 Printer ISP.csproj" />
+  <Project Path="Ex2 Payment ISP Violationg/Ex2 Payment ISP Violationg.csproj" />
+  <Project Path="Ex2 Payment ISP/Ex2 Payment ISP.csproj" />
 </Solution>
