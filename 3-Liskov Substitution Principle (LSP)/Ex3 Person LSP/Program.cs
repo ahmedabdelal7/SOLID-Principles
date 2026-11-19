@@ -23,6 +23,7 @@ public class Employee : Person
     }
 }
 
+
 public class Manager : Employee
 {
     // Override PaySalary for managers
@@ -47,6 +48,15 @@ public class Student : Person
     }
 }
 
+public class User : Person
+{
+    // Override SendEmail for users
+    public override void SendEmail()
+    {
+        Console.WriteLine("Sending email to a user...");
+    }
+}
+
 public class Program
 {
     public static void Main(string[] args)
@@ -62,6 +72,8 @@ public class Program
         Person person3 = new Student();
         person3.SendEmail();   // Calls SendEmail method for Student
 
+        User person4 = new User();
+        person4.SendEmail();   // Calls SendEmail method for User
 
         Console.ReadKey();
     }
