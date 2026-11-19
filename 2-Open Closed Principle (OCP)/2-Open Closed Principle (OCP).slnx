@@ -3,4 +3,5 @@
   <Project Path="Ex1 Notification Service/Ex1 Notification Service.csproj" Id="4b30a95c-6b73-4541-969a-9c415574c0da" />
   <Project Path="Ex2 Logging Service OCP/Ex2 Logging Service OCP.csproj" Id="ccec3096-2668-4ee9-bf3c-863103f1de3c" />
   <Project Path="Ex2 Logging Service/Ex2 Logging Service.csproj" Id="5d83382c-e040-4095-af0f-c7275e5ae843" />
+  <Project Path="Ex3 Payment Service OCP/Ex3 Payment Service OCP.csproj" Id="3b42043c-d25f-4f1f-b784-fd1361a61e75" />
 </Solution>
