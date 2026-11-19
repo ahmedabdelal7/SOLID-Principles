@@ -3,4 +3,6 @@
   <Project Path="Ex1 Bird LSP/Ex1 Bird LSP.csproj" Id="2b409f20-c20e-4daa-9d3c-57122942430f" />
   <Project Path="Ex2 Vehicle LSP Violating/Ex2 Vehicle LSP Violating.csproj" Id="469b403e-b027-48d4-8b77-cf11fb5943eb" />
   <Project Path="Ex2 Vehicle LSP/Ex2 Vehicle LSP.csproj" Id="8102e09d-b589-4293-8d70-b2dc00dd08f7" />
+  <Project Path="Ex3 Person LSP Violating/Ex3 Person LSP Violating.csproj" Id="be9c7028-b792-494e-b2c0-e14faaad379d" />
+  <Project Path="Ex3 Person LSP/Ex3 Person LSP.csproj" Id="91dc1f8c-1600-4305-8a8f-47e5cac17880" />
 </Solution>
