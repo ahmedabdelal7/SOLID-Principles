@@ -3,4 +3,6 @@
   <Project Path="Ex1 Printer ISP/Ex1 Printer ISP.csproj" />
   <Project Path="Ex2 Payment ISP Violationg/Ex2 Payment ISP Violationg.csproj" />
   <Project Path="Ex2 Payment ISP/Ex2 Payment ISP.csproj" />
+  <Project Path="Ex3 Device ISP Violating/Ex3 Device ISP Violating.csproj" Id="b0c2ec23-029c-4763-8567-4e8795bc6796" />
+  <Project Path="Ex3 Device ISP/Ex3 Device ISP.csproj" Id="bdf42567-b0d6-454d-b2b2-3dc00d6682f6" />
 </Solution>
